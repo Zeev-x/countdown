@@ -1,3 +1,17 @@
+
+<div align="center">
+<img src="https://telegra.ph/file/410a3935dc83d2944a629.jpg" alt="simple-bot" width="300" />
+
+# Lynch
+
+>
+>
+>
+</div>
+<p align="center">
+  <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Lynch-red.svg?style=for-the-badge&logo=github" /></a>
+  <h4 align="center">
+
 # Countdown
 
 ```echo
@@ -11,4 +25,4 @@
 ````
 ## Thanks to
 
-• [Lynch]("https://github.com/zeev-x")
+• [`Lynch`](https://github.com/zeev-x)
