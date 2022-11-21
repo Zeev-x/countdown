@@ -87,7 +87,7 @@
   }
   h6 {
     font-family: Monospace;
-    font-size: 20px;
+    font-size: 10px;
   }
   #count {
     background-color: #fffd00;
