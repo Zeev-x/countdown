@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://telegra.ph/file/410a3935dc83d2944a629.jpg" alt="simple-bot" width="300" />
+<img src="https://telegra.ph/file/2f261186e9458cc8fb00f.jpg" alt="simple-bot" width="200" />
 
 # Lynch
 
