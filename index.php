@@ -98,7 +98,7 @@
     color: black;
   }
   #date {
-    font-size: 10px; 
+    font-size: 5px; 
     color: white;
     font-family: digital;
   }
