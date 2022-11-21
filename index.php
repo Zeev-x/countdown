@@ -60,7 +60,7 @@
 <h3>New Year Countdown</h3>
 <a id="count">Loading...</a>
 <br>
-<h6>Note : Perhitungan dalam zona <i>Waktu Indonesia Barat</i></h6>
+<h6>Note : Perhitungan mungkin tidak sama dengan beberapa zona waktu.</h6>
 <br>
 <a id="date">Loading...</a>
 <p>Countdown berakhir pada <a id="cend"></a></p>
@@ -87,6 +87,7 @@
   }
   h6 {
     font-family: Monospace;
+    font-size: 20px;
   }
   #count {
     background-color: #fffd00;
