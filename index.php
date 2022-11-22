@@ -4,10 +4,6 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="UTF-8">
     <title>lynch.co.id</title>
-    <script>
-      var a = confirm("Apakah kamu setuju untuk melanjutkan?");
-      a ? " " : window.close();
-    </script>
   </head>
   <body>
     <br><br><br><br>
