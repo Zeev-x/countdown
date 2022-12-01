@@ -313,7 +313,7 @@ var mk = miku[m];
 var hr = marine[h];
 var nn = nino[n];
 var rs = [ec,mk,hr,nn];
-var rrs = Math.floor(Math.random()*3);
+var rrs = Math.floor(Math.random()*4);
 var rrrs = rs[rrs];
 //document.write(rrrs)
 if(rrrs == ec){
