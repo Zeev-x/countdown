@@ -74,7 +74,7 @@
     width: 95%;
     text-align: center;
     background-color: black;
-    background-image: url("https://telegra.ph/file/41d135184c1cd142bebcb.jpg");
+    background-image: url("https://waifu2x.booru.pics/outfiles/ff4fcf0b47eeda20ef3a3448eb815fea17eb375a_s2_n2.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
