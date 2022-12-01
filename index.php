@@ -96,6 +96,7 @@
     border-radius: 50px;
    /* font-size: 30px;  */
     color: black;
+    font-family: Monospace;
   }
   #date {
     font-size: 5px; 
